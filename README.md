@@ -1,0 +1,5 @@
+- Initial release of the GhostTap skill for OpenClaw.
+- Manage GhostTap anonymous crypto-to-card services through messaging channels.
+- Supports checking balances, listing wallets and virtual cards, creating new ghost cards, and freezing/unfreezing cards via natural language.
+- Provides setup instructions, configuration details, and example requests/responses.
+- Includes security guidelines and error handling documentation.
